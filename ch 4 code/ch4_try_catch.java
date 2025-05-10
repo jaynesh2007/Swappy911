@@ -10,7 +10,7 @@ public class ch4_try_catch
 		}
 			catch(Exception e)
 			{
-				System.out.println("We have caught the exception"+e	);
+				System.out.println("We have caught the exception"+e);
 			}
 		   //System.out.println("We are using try and catch function"+b);
 	}
